@@ -1,0 +1,23 @@
+Explain the aim of each file:
+
+1) Hello 
+As any beginner, should print (hello world)
+
+2) mario
+using loops print right-aligned pyramid of blocks, as the below
+
+$ ./mario
+Height: 8
+       #
+      ##
+     ###
+    ####
+   #####
+  ######
+ #######
+########
+
+3) cash 
+Help cashier’s to return change to the user assuming there's only quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢). 
+we will use greedy algorithm in this problem.
+
