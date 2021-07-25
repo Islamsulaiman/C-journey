@@ -1,0 +1,16 @@
+Explain the aim of each file:
+
+1) Filter
+Implement a program that applies filters to BMPs, per the below.
+EX:
+$ ./filter -r image.bmp reflected.bmp
+
+problem link: https://cs50.harvard.edu/x/2021/psets/4/filter/less/
+
+
+2) Recover
+Implement a program that recovers JPEGs from a forensic image, per the below.
+EX:
+$ ./recover card.raw
+
+problem link: https://cs50.harvard.edu/x/2021/psets/4/recover/

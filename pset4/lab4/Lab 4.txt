@@ -1,0 +1,12 @@
+Explain the aim of each file:
+
+1) Volume
+Write a program to modify the volume of an audio file.
+EX:
+$ ./volume input.wav output.wav 2.0
+
+problem link: https://cs50.harvard.edu/x/2021/labs/4/
+
+
+
+
