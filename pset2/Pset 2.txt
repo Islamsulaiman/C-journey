@@ -1,0 +1,22 @@
+Explain the aim of each file:
+
+1) readability
+program that computes the approximate grade level needed to comprehend some text, per the below. 
+EX:
+$ ./readability
+Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
+Grade 3
+
+problem link: https://cs50.harvard.edu/x/2021/psets/2/readability/#readability
+
+
+2) caesar
+Implement a program that encrypts messages using Caesar’s cipher, per the below.
+EX:
+$ ./caesar 13
+plaintext:  HELLO
+ciphertext: URYYB
+
+problem link: https://cs50.harvard.edu/x/2021/psets/2/caesar/
+
+
